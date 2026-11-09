@@ -931,9 +931,8 @@
     "wof:belongsto":[
         102191569,
         85632695,
-        1108732371,
-        136253041,
-        85669727
+        85669727,
+        136253041
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -974,7 +973,7 @@
     "wof:lastmodified":1608688192,
     "wof:megacity":1,
     "wof:name":"Beijing",
-    "wof:parent_id":1108732371,
+    "wof:parent_id":85669727,
     "wof:placetype":"locality",
     "wof:population":11716620,
     "wof:population_rank":14,

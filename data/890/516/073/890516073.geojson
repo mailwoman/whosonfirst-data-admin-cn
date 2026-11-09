@@ -127,8 +127,7 @@
         85669727,
         102191569,
         85632695,
-        136253041,
-        1108732371
+        136253041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -154,7 +153,7 @@
     "wof:id":890516073,
     "wof:lastmodified":1566693628,
     "wof:name":"\u77f3\u666f\u5c71",
-    "wof:parent_id":1108732371,
+    "wof:parent_id":85669727,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-cn",
